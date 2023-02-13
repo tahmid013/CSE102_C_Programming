@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1676281463 source:d:\study\process_github\project_code-20230213t082425z-001\l1_t1\project_code\game_project\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1676276694 d:\study\process_github\project_code-20230213t082425z-001\l1_t1\project_code\game_project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	<string>
+
+1676276694 d:\study\process_github\project_code-20230213t082425z-001\l1_t1\project_code\game_project\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1676276694 d:\study\process_github\project_code-20230213t082425z-001\l1_t1\project_code\game_project\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
