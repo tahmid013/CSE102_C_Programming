@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\personal\desktop\game\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527553230 source:c:\users\personal\desktop\tahmid_project\i_graphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1527204120 c:\users\personal\desktop\tahmid_project\i_graphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1528622803 source:c:\users\personal\desktop\game 2\game 1\tahmid_project\i_graphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1527204120 c:\users\personal\desktop\game 2\game 1\tahmid_project\i_graphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1462159752 source:c:\users\personal\desktop\game 2\igraphics\demo codes\codeblocks\balldemo.cpp
+	"iGraphics.h"
+
+1462108168 c:\users\personal\desktop\game 2\igraphics\demo codes\codeblocks\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462159876 source:c:\users\personal\desktop\game 2\igraphics\demo codes\codeblocks\mousedemo.cpp
+	"iGraphics.h"
+
+1462160912 source:c:\users\personal\desktop\game 2\igraphics\demo codes\codeblocks\picturedemo.cpp
+	"iGraphics.h"
+
+1462159914 source:c:\users\personal\desktop\game 2\igraphics\demo codes\codeblocks\textinputdemo.cpp
+	"iGraphics.h"
+
+1528746749 source:c:\users\personal\desktop\game 2\game 1\game 1 code\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1527607229 c:\users\personal\desktop\game 2\game 1\game 1 code\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	<string>
+
+1527607781 c:\users\personal\desktop\game 2\game 1\game 1 code\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1527607229 c:\users\personal\desktop\game 2\game 1\game 1 code\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1676276785 source:d:\study\process_github\project_code-20230213t082425z-001\project_code\game 1\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1676276694 d:\study\process_github\project_code-20230213t082425z-001\project_code\game 1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	<string>
+
+1676276694 d:\study\process_github\project_code-20230213t082425z-001\project_code\game 1\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1676276694 d:\study\process_github\project_code-20230213t082425z-001\project_code\game 1\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1676279781 source:d:\study\process_github\project_code-20230213t082425z-001\l1_t1\project_code\game 1\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1676276694 d:\study\process_github\project_code-20230213t082425z-001\l1_t1\project_code\game 1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	<string>
+
+1676276694 d:\study\process_github\project_code-20230213t082425z-001\l1_t1\project_code\game 1\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1676276694 d:\study\process_github\project_code-20230213t082425z-001\l1_t1\project_code\game 1\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
